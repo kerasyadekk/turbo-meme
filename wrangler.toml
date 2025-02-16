@@ -1,0 +1,20 @@
+name = "turbo-meme"
+main = "src/index.html"
+compatibility_date = "2025-02-16"
+
+[[ dispatch_namespaces ]]
+binding = "dispatcher"
+namespace = "turbo-meme" # make sure this is the same as the DISPATCH_NAMESPACE_NAME var
+
+[[ d1_databases ]]
+binding = "DB"
+database_name = "turbo-meme"
+database_id = "turbo-meme"
+preview_database_id = "turbo-meme"
+
+[vars]
+DISPATCH_NAMESPACE_NAME = "turbo-meme"
+DISPATCH_NAMESPACE_ACCOUNT_ID = ""
+# The necessary secrets are:
+# - DISPATCH_NAMESPACE_API_TOKEN
+# Run `echo <VALUE> | wrangler secret put <NAME>` for each of these
