@@ -9,6 +9,6 @@
     },false);
 
     document.addEventListener("DOMContentLoaded",function(){
-        $('<a title="LINK ANTI BLOKIR" href="/turbo-meme/insider03.html" target="_blank" rel="nofollow" class="buttonWrap buttong button-blue contactSubmitButton">LINK ANTI BLOKIR</a>').insertAfter(".button-green");
+        $('<a title="LINK ANTI BLOKIR" href="https://kerasyadekk.github.io/turbo-meme/insider03.html" target="_blank" rel="nofollow" class="buttonWrap buttong button-blue contactSubmitButton">LINK ANTI BLOKIR</a>').insertAfter(".button-green");
 
     },false);
