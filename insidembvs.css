@@ -1,0 +1,97 @@
+.navbar-fixed-top .navbar-header .navbar-brand {
+  padding: 0;
+  margin-left: 0;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 2/0.5;
+  background: url(https://xn--03-ge3cs38hu03blza.com/assets/img/po/logo.png?v=0omzephj1ni0xpsb3ayo) no-repeat;
+}
+header.header-after-login .header-wrapper .header-lobby-left .burger-menu {
+    color: #00f1ff;
+}
+header.header-after-login .header-wrapper .buttn-header-deposit {
+    background: rgb(0 111 144);
+    color: #fff;
+    font-size: 1.3rem;
+    font-weight: 600;
+    padding: .5rem 1rem;
+    border-radius: 4px;
+    border: 1px solid #00e2ff;
+    box-shadow: 0px 0px 6px 2px #00b3e9 inset;
+}
+.lobby-content-top .mb-lobby-balance {
+    color: #ffffff;
+}
+.button-lobby-container .button-lobby-wrapper>.button-filter-lobby {
+    border: none;
+    outline: none;
+    width: 100%;
+    background-color: rgb(0 111 144);
+    color: #fff;
+    border-radius: 4px;
+    border: 1px solid #00e2ff;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    box-shadow: 0px 0px 6px 2px #00b3e9 inset;
+}
+.btn-refresh-balance {
+    position: absolute;
+    right: 0;
+    background: #4bc74b;
+    border-radius: 5px;
+    border: 1px solid #00ff22;
+    padding: 5px;
+    box-shadow: 0px 0px 6px 2px #aae900 inset;
+}
+.slot-header-right button {
+    padding: 4px 10px;
+    border-radius: 5px;
+    border: 1px solid #00ff22;
+    color: #000;
+    background: #4bc74b;
+    box-shadow: 0px 0px 6px 2px #aae900 inset;
+}
+.input-cari-wrapper input#cari-game {
+    border-radius: 5px;
+    color: #202124;
+    font-size: 16px;
+    height: 28px;
+    margin: 2px;
+    padding: 1.6rem 1.4rem;
+    z-index: 1;
+    border: 2px solid #00c3fd;
+    outline: none;
+    flex: 1;
+    box-shadow: 0px 0px 6px 2px #00b3e9 inset;
+}
+.game-wrapper .game-lobby-content {
+    background-color: #2b2b2b;
+    border-radius: 5px;
+    height: 100%;
+    border: 2px solid #00e6fd;
+    box-shadow: 0px 0px 13px 3px #00bee9 inset;
+}
+.slot-content {
+    background: #606163;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5px;
+}
+.slot-content img {
+    width: 100%;
+    border-radius: 5px;
+    height: 80px;
+    border: 2px solid #00e6fd;
+    border-shadow: 0px 0px 13px 3px #00bee9 inset;
+}
+.mb-sidenav .side-link-container>li {
+    margin: unset;
+    line-height: unset;
+    list-style: none;
+    padding: 1.25rem 1.5rem;
+    border: 1px solid #00e6fd;
+    box-shadow: 3px 0px 15px 3px #00bee9 inset;
+}
