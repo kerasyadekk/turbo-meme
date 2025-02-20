@@ -206,7 +206,6 @@ h2, h3, h4 {
 @media only screen and (max-width: 1000px) {
     .accordion-button:not(.collapsed) {
         color: inherit;
-        background-color: rgba(0, 0, 0, 0.6);
         box-shadow: none;
     }
 }
