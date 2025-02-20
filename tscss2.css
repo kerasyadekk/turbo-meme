@@ -230,21 +230,3 @@
                     }
             
             }
-            
-            
-            @media only screen and (max-width: 1000px) {
-                    .login-form {
-                            margin: 0 20px;
-                    }
-            
-                    .login-field, .login-form>button, .btn-promosi, .wikwik {
-                            border-radius: 5px;
-                    }
-            
-                   
-            
-                    
-            }
-.login-form {
-   padding-top: 38px;
-}
