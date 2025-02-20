@@ -1,0 +1,217 @@
+    .footer-group {
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.8);
+    flex-direction: column;
+    width: auto;
+    border: 2px solid #00ff22;
+    border-radius: 10px;
+    margin-top: -6px;
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
+}
+            @media only screen and (max-width: 1000px) {
+                    .login-form {
+                            margin: 0 20px;
+}
+#togel-mobile {
+        background: url('https://cdn.jsdelivr.net/gh/kerasyadekk/turbo-meme@main/tarobck%20(1).webp') no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+}
+#togel-desktop {
+        background: url('https://cdn.jsdelivr.net/gh/kerasyadekk/turbo-meme@main/tarobck%20(1).webp') no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+}
+.provider {
+        background: url('https://cdn.jsdelivr.net/gh/kerasyadekk/turbo-meme@main/tarobck%20(1).webp') no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+}
+.transaksi {
+        background: url('https://cdn.jsdelivr.net/gh/kerasyadekk/turbo-meme@main/tarobck%20(1).webp') no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+}
+.guidelines {
+        background: url('https://cdn.jsdelivr.net/gh/kerasyadekk/turbo-meme@main/tarobck%20(1).webp') no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+}
+.bantuan  {
+        background: url('https://cdn.jsdelivr.net/gh/kerasyadekk/turbo-meme@main/tarobck%20(1).webp') no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+}
+.contentdata {
+        background: url('https://cdn.jsdelivr.net/gh/kerasyadekk/turbo-meme@main/tarobck%20(1).webp') no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+}
+.footer {
+        background: url('https://cdn.jsdelivr.net/gh/kerasyadekk/turbo-meme@main/tarobck%20(1).webp') no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        border-top: none;
+}
+.d-flex.gap-3.justify-content-center.align-items-center {
+     display:none!important;
+}
+#boxprivacy {
+     display:none!important;
+}
+#gt-nvframe {
+     display:none!important;
+}
+.copyright {
+    display: flex;
+    gap: 4px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.btn-aduan {
+   margin-right: 10px;
+   margin-bottom: 10px;
+}
+.taroslot {
+    width: 25%;
+    display: block;
+    color: #ffffff;
+    text-shadow: -2px 1px #000000;
+    margin-top: 0px;
+    text-align: center;
+    padding: 2px 0px;
+    font-size: 15px;
+    font-weight: bold;
+    border: 3px solid #ff0000;
+    animation: aligatordarat 1.5s infinite;
+}
+@keyframes aligatordarat {
+0% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+2.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+7.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+10% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+12.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+15% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+17.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+20% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+22.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+25% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+27.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+30% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+32.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+35% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+37.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9, #086cf9);
+}
+40% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9);
+}
+42.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9);
+}
+45% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff);
+}
+50% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+72.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+75% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #FFFFFE);
+}
+77.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9);
+}
+80% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9);
+}
+82.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9, #086cf9);
+}
+85% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+87.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+90% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+92.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+95% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #086cf9, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+97.5% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #086cf9, #FFFFFD, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
+100% {
+    border-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff) 1;
+    background: linear-gradient(to right, #ffffff, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9, #086cf9);
+}
