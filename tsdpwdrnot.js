@@ -1,4 +1,3 @@
-<script>
     function getRandomInt(min, max) {
         min = Math.ceil(min);
         max = Math.floor(max);
@@ -57,4 +56,3 @@
         var popup = document.getElementById("myPopup");
         popup.classList.toggle("show");
     }, 3000)
-</script>
